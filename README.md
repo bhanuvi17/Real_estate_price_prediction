@@ -93,10 +93,10 @@ git push origin main
 ## 📸 Screenshots
 
 ### 🔹 **Web Interface**
-![Web App Screenshot](https://raw.githubusercontent.com/bhanuvi17/real_estate_app/main/Screenshot%202025-02-09%20022645.png)
+![Web App Screenshot](https://raw.githubusercontent.com/bhanuvi17/Real_estate_price_prediction/main/Screenshot%202025-02-09%20022645.png)
 
 ### 🔹 **Prediction Output**
-![Prediction Output](https://raw.githubusercontent.com/bhanuvi17/real_estate_app/main/Screenshot%202025-02-09%20022742.png)
+![Prediction Output](https://raw.githubusercontent.com/bhanuvi17/Real_estate_price_prediction/main/Screenshot%202025-02-09%20022742.png)
 
 ---
 
