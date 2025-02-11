@@ -71,6 +71,8 @@ python app.py
 🔗 Open in your browser: **http://127.0.0.1:5000/**  
 
 ---
+🚀 Live Website  
+<https://real-estate-price-prediction-ml19.onrender.com/> 
 
 ## 🚀 Deploying on Render  
 
@@ -89,8 +91,6 @@ git push origin main
 - Click **Deploy** 🎉  
 
 ---
-🚀 Live Website  
-<https://real-estate-price-prediction-ml19.onrender.com/>
 
 ## 📸 Screenshots
 
