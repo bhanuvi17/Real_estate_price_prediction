@@ -47,7 +47,7 @@ real_estate_app/
 
 ### 🔹 Clone the Repository
 ```bash
-git clone https://github.com/your-username/real_estate_app.git
+git clone https://github.com/bhanuvi17/real_estate_app.git
 cd real_estate_app
 ```
 
